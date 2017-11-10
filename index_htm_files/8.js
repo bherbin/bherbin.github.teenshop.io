@@ -6,8 +6,8 @@ window.local_mosaic_slide_97_data = [
 },
 {
  heading: "index_htm_files/2822.png",
- image: "index_htm_files/2844.jpg",
+ image: "index_htm_files/4056.jpg",
  link: "#",
- text: "index_htm_files/2845.png"
+ text: "index_htm_files/4057.png"
 }
 ];

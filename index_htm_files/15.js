@@ -1,4 +1,4 @@
-window.local_mosaic_slide_104_data = [
+window.local_mosaic_slide_118_data = [
 {
  direction: "0",
  speed: "0.5",
@@ -6,8 +6,8 @@ window.local_mosaic_slide_104_data = [
 },
 {
  heading: "index_htm_files/2822.png",
- image: "index_htm_files/2835.jpg",
+ image: "index_htm_files/4043.jpg",
  link: "#",
- text: "index_htm_files/2836.png"
+ text: "index_htm_files/4044.png"
 }
 ];
